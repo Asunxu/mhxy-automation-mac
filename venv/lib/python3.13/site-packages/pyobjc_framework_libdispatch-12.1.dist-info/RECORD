@@ -1,0 +1,14 @@
+dispatch/__init__.py,sha256=qZKO_3DaXhgnDQrbnu1IT-frPEZsGcJcslZYJp8KPHE,812
+dispatch/__pycache__/__init__.cpython-313.pyc,,
+dispatch/__pycache__/_metadata.cpython-313.pyc,,
+dispatch/_dispatch.cpython-313-darwin.so,sha256=3Jo2nh9tHgRZIkN434UKSdqE7VyFLW5CveSiYG-Plas,85616
+dispatch/_inlines.cpython-313-darwin.so,sha256=32yCqg9ZV2XGSDA12SQ3uNehSelGDjOk8IoWeByRQo0,67312
+dispatch/_metadata.py,sha256=HFXIE02R8RdxyyGPUeZLV7HgIQHNNzMDG1T5XXPOQlg,29504
+libdispatch/__init__.py,sha256=eMQlZbYsUyi-dc70BIT3FYme5Y0xDNldj9c_0XtsQJE,621
+libdispatch/__pycache__/__init__.cpython-313.pyc,,
+pyobjc_framework_libdispatch-12.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pyobjc_framework_libdispatch-12.1.dist-info/METADATA,sha256=xTuLncYXlQYTx7rDeoBkjHvB1pJyLorW_vGy_WRLOiI,2502
+pyobjc_framework_libdispatch-12.1.dist-info/RECORD,,
+pyobjc_framework_libdispatch-12.1.dist-info/WHEEL,sha256=memlX0NSEQnmSMa3rcNWPnk4cttudwgAZx3qq8qO4ME,115
+pyobjc_framework_libdispatch-12.1.dist-info/pyobjc-build-info.txt,sha256=Zbi-PSOVgOypJnPCf5t2Fe5WWRqqJAkI5-7sGEMSx6I,81
+pyobjc_framework_libdispatch-12.1.dist-info/top_level.txt,sha256=9B7EZ9lZzS6f7qyqtzyUlVjdhJBdkQMc6yPV18WG7Zs,21

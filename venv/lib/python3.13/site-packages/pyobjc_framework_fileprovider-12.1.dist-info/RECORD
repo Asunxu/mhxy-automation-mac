@@ -1,0 +1,11 @@
+FileProvider/_FileProvider.cpython-313-darwin.so,sha256=PtXNjSA0Gz7HEKtyXG0gUsuxklhQC7v2PNgT_XBpiLQ,110496
+FileProvider/__init__.py,sha256=JCJSb8Ym2qEPATcyecMkl7_ogChYxsqtZ-9TdPXZ81E,1028
+FileProvider/__pycache__/__init__.cpython-313.pyc,,
+FileProvider/__pycache__/_metadata.cpython-313.pyc,,
+FileProvider/_metadata.py,sha256=eacCTgUOx1I2TK1ds2Vp57BUfzxXipgWpGg5V11R5Iw,55111
+pyobjc_framework_fileprovider-12.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pyobjc_framework_fileprovider-12.1.dist-info/METADATA,sha256=6oXEqVAL-K4UEqoIdTF8Wpn-AfGdt7zzy851Z5Q3RJk,2517
+pyobjc_framework_fileprovider-12.1.dist-info/RECORD,,
+pyobjc_framework_fileprovider-12.1.dist-info/WHEEL,sha256=memlX0NSEQnmSMa3rcNWPnk4cttudwgAZx3qq8qO4ME,115
+pyobjc_framework_fileprovider-12.1.dist-info/pyobjc-build-info.txt,sha256=Zbi-PSOVgOypJnPCf5t2Fe5WWRqqJAkI5-7sGEMSx6I,81
+pyobjc_framework_fileprovider-12.1.dist-info/top_level.txt,sha256=nR-rI0rFsyka1trhSbpnliRgXtSwu1LZmlT9IJL_0RY,13

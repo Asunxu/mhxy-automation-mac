@@ -1,0 +1,11 @@
+CoreWLAN/_CoreWLAN.cpython-313-darwin.so,sha256=-_-IMtd8cquayvy-TJOWxWmI4kwQa3NVyZGwvZBouY8,67440
+CoreWLAN/__init__.py,sha256=F8lD9eCGn2kCZrojxPmXDbBpI7IFbFXy4y42E5N_xGw,3239
+CoreWLAN/__pycache__/__init__.cpython-313.pyc,,
+CoreWLAN/__pycache__/_metadata.cpython-313.pyc,,
+CoreWLAN/_metadata.py,sha256=g09NxFXLatguZ6dUI42Gs-3tPq_3uH7bdO3cdgGdjn0,16349
+pyobjc_framework_corewlan-12.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pyobjc_framework_corewlan-12.1.dist-info/METADATA,sha256=dLFCNC_65jik0ScS1Sufq1iqv2znvnZeiek2r9Y_4Qc,2500
+pyobjc_framework_corewlan-12.1.dist-info/RECORD,,
+pyobjc_framework_corewlan-12.1.dist-info/WHEEL,sha256=memlX0NSEQnmSMa3rcNWPnk4cttudwgAZx3qq8qO4ME,115
+pyobjc_framework_corewlan-12.1.dist-info/pyobjc-build-info.txt,sha256=Zbi-PSOVgOypJnPCf5t2Fe5WWRqqJAkI5-7sGEMSx6I,81
+pyobjc_framework_corewlan-12.1.dist-info/top_level.txt,sha256=mcscvq82uk-8ot3s0quSJkHdRpmVUOcsz9wLk7Evzh4,9

@@ -1,0 +1,11 @@
+AuthenticationServices/_AuthenticationServices.cpython-313-darwin.so,sha256=gMbcPcV9eOtQwBh5CMIIybvcnuml7CycAsSHc7HsA5Y,110688
+AuthenticationServices/__init__.py,sha256=oOBfnxgmdxSS3RCyNgA-_0hDjzCQpfsrUPNcew6GEHs,5337
+AuthenticationServices/__pycache__/__init__.cpython-313.pyc,,
+AuthenticationServices/__pycache__/_metadata.cpython-313.pyc,,
+AuthenticationServices/_metadata.py,sha256=pg1mnHO0NzNObtrE2GF9fxAJTphq7OAgg9jIS0V08mo,52583
+pyobjc_framework_authenticationservices-12.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pyobjc_framework_authenticationservices-12.1.dist-info/METADATA,sha256=ZmZYVcRDUFnrV5Z21w3bg3VN9sdGJD-bRcVxCee2TaE,2557
+pyobjc_framework_authenticationservices-12.1.dist-info/RECORD,,
+pyobjc_framework_authenticationservices-12.1.dist-info/WHEEL,sha256=memlX0NSEQnmSMa3rcNWPnk4cttudwgAZx3qq8qO4ME,115
+pyobjc_framework_authenticationservices-12.1.dist-info/pyobjc-build-info.txt,sha256=Zbi-PSOVgOypJnPCf5t2Fe5WWRqqJAkI5-7sGEMSx6I,81
+pyobjc_framework_authenticationservices-12.1.dist-info/top_level.txt,sha256=Ciykkkh4DfMPf5szUu42yvA8zRGwQfdxa_IeZvWyemU,23

@@ -1,0 +1,11 @@
+ModelIO/_ModelIO.cpython-313-darwin.so,sha256=ABfM6wnszfEmT78BIFhj4lEF0gT9W8dX-rQ68xuY5bs,89360
+ModelIO/__init__.py,sha256=MSjC4GYPE8uyUmEMeD1qmIRKcUaMs1YBEKJwkMXFGwg,1179
+ModelIO/__pycache__/__init__.cpython-313.pyc,,
+ModelIO/__pycache__/_metadata.cpython-313.pyc,,
+ModelIO/_metadata.py,sha256=A0CDTTpsNQb5RA1gKjlcdt3nWwRzO2-bZjEBQoETsMc,83240
+pyobjc_framework_modelio-12.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pyobjc_framework_modelio-12.1.dist-info/METADATA,sha256=50izgqj0gEeGBrDHF5TTu_3BrWGhnpo78QfXdFiJLKE,2542
+pyobjc_framework_modelio-12.1.dist-info/RECORD,,
+pyobjc_framework_modelio-12.1.dist-info/WHEEL,sha256=memlX0NSEQnmSMa3rcNWPnk4cttudwgAZx3qq8qO4ME,115
+pyobjc_framework_modelio-12.1.dist-info/pyobjc-build-info.txt,sha256=Zbi-PSOVgOypJnPCf5t2Fe5WWRqqJAkI5-7sGEMSx6I,81
+pyobjc_framework_modelio-12.1.dist-info/top_level.txt,sha256=tlLqg26IgOSRxeNWwXKxJjKC7_NMPPXcKGazzayLCwY,8

@@ -1,0 +1,11 @@
+CoreMotion/_CoreMotion.cpython-313-darwin.so,sha256=-5uvwl0gXx4yJorD8UVFXgs79VS_atYrdE4SSmIHyMU,68512
+CoreMotion/__init__.py,sha256=mtfbYg3QNeO06FwmZ0Ty11-xHSY4Tp4-ITdyjVg7e44,1013
+CoreMotion/__pycache__/__init__.cpython-313.pyc,,
+CoreMotion/__pycache__/_metadata.cpython-313.pyc,,
+CoreMotion/_metadata.py,sha256=GuSb6KfGGMqBg73Sw4h90Zya6YALcJFL8eVwYYshmDA,22490
+pyobjc_framework_coremotion-12.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pyobjc_framework_coremotion-12.1.dist-info/METADATA,sha256=cOJqsX5hSsGhRQ30uAdphwa8Vf6dpqHJC6jUNkaSX5k,2509
+pyobjc_framework_coremotion-12.1.dist-info/RECORD,,
+pyobjc_framework_coremotion-12.1.dist-info/WHEEL,sha256=memlX0NSEQnmSMa3rcNWPnk4cttudwgAZx3qq8qO4ME,115
+pyobjc_framework_coremotion-12.1.dist-info/pyobjc-build-info.txt,sha256=Zbi-PSOVgOypJnPCf5t2Fe5WWRqqJAkI5-7sGEMSx6I,81
+pyobjc_framework_coremotion-12.1.dist-info/top_level.txt,sha256=MLLSDIT6N1hlKZxtoxN-0tfaoROm_t_lcOXK5bcDaKo,11
