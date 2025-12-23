@@ -1,0 +1,21 @@
+# Python虚拟环境
+venv/
+
+# Python编译缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+
+# 日志文件
+log/
+*.log
+
+# 本地配置文件
+local_config.py
+
+# 其他临时文件
+*.tmp
+*.swp
+*.bak
