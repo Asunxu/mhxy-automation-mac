@@ -1,5 +1,4 @@
-# Python虚拟环境
-venv/
+# Python虚拟环境（已移除忽略，当前项目包含venv）
 
 # Python编译缓存
 __pycache__/
